@@ -19,16 +19,17 @@
 ---
 
 ### 📕 Latest Github Pages
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+- [Intranet with HTML, CSS & JAVASCRIPT](https://edsonbmj.github.io/ativaintranet)
+- [Some things about me](https://edsonbmj.github.io/cv)
 
-- [Intranet with HTML, CSS & JAVASCRIPT](edsonbmj.github.io/ativaintranet)
-- [Some things about me](edsonbmj.github.io/cv)
-
-➡️ [more projects...](edsonbmj.github.io/projects)
+➡️ [more projects...](https://edsonbmj.github.io/projects)
 
 ---
 
-[website]: edsonbmj.github.io/cv
+[website]: https://edsonbmj.github.io/cv
 [twitter]: https://twitter.com/thedeli1224
 [instagram]: https://instagram.com/thedelli1224
 [linkedin]: https://www.linkedin.com/in/edson-barroso-76702a1ba

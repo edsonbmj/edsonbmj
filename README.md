@@ -29,6 +29,8 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonbmj)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://edsonbmj.github.io/cv
 [twitter]: https://twitter.com/thedeli1224
 [instagram]: https://instagram.com/thedelli1224
